@@ -1,0 +1,2 @@
+# mand-conf
+mandatory config
